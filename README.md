@@ -1,4 +1,4 @@
-# paidmailbot
+# PaidMailBot
 A bot for clicking on Links in Paidmails
 
 ## Usage
