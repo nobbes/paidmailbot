@@ -12,5 +12,8 @@ python main.py
 
 ## Supported PaidMail Providers
 
-* Quassa 
+* Bonus Bunny
+* dondino
 * EuroClix
+* Quassa 
+* Questler.de
